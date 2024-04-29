@@ -1,4 +1,4 @@
-Kah Chun Wei,Junwei123,ADMIN
+Kah Chan Wai,Junwei123,ADMIN
 Easean Chan,easean123,INVENTORY
 Lam Kai Jay,kaijay123,PURCHASER
 HAHA,haha444,ADMIN
